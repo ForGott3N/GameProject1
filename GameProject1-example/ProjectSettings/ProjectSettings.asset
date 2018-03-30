@@ -603,9 +603,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 83284933-660c-4fcc-bb29-3620c2ae43c9
+  cloudProjectId: 6e8a5e3c-a6e3-41de-9653-a429786b96d8
   projectName: GameProject1-example
-  organizationId: wookiegoowno
+  organizationId: adaspolska2000
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
