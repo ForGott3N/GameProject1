@@ -1,2 +1,2 @@
 # GameProject1
-GameProject1-example
+CO TO KURWA TEN GIT SKURWYSYN TAKA GRUPA PARKUROWA
